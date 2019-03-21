@@ -1,0 +1,10 @@
+Product: 0.96
+Skin care: 0.85
+Water: 0.81
+Material property: 0.72
+Font: 0.69
+Cream: 0.66
+Moisture: 0.60
+Lip care: 0.60
+Cosmetics: 0.59
+Fluid: 0.57

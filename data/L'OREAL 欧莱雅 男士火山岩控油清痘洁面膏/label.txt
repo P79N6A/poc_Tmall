@@ -1,0 +1,8 @@
+Product: 0.95
+Hair coloring: 0.79
+Skin care: 0.77
+Cream: 0.72
+Material property: 0.71
+Brand: 0.60
+Advertising: 0.58
+Personal care: 0.54

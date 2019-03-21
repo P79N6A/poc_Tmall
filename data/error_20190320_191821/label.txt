@@ -1,0 +1,7 @@
+Product: 0.95
+Material property: 0.72
+Personal care: 0.60
+Electric blue: 0.58
+Skin care: 0.56
+Hair care: 0.55
+Hair coloring: 0.51

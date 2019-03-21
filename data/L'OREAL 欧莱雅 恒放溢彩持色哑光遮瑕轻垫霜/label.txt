@@ -1,0 +1,2 @@
+Font: 0.82
+Fashion accessory: 0.55

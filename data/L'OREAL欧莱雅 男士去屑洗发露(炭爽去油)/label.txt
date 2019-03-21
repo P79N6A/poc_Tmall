@@ -1,0 +1,5 @@
+Product: 0.93
+Material property: 0.70
+Liquid: 0.62
+Personal care: 0.53
+Hair coloring: 0.51

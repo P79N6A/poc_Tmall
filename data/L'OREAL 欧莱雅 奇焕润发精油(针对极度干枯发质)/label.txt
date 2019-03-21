@@ -1,0 +1,4 @@
+Product: 0.88
+Bottle: 0.66
+Spray: 0.63
+Fluid: 0.51

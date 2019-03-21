@@ -1,0 +1,7 @@
+Product: 0.95
+Skin care: 0.74
+Plastic bottle: 0.72
+Material property: 0.70
+Mouth: 0.68
+Personal care: 0.60
+Cosmetics: 0.50

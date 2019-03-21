@@ -1,0 +1,10 @@
+Lipstick: 0.97
+Red: 0.96
+Lip: 0.94
+Cosmetics: 0.94
+Lip care: 0.91
+Pink: 0.81
+Material property: 0.72
+Mouth: 0.68
+Tints and shades: 0.60
+Lip gloss: 0.55

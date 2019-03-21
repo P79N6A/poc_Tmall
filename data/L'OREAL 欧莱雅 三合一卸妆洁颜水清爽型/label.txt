@@ -1,0 +1,5 @@
+Product: 0.93
+Personal care: 0.60
+Skin care: 0.59
+Fluid: 0.55
+Liquid: 0.51

@@ -1,0 +1,10 @@
+Product: 0.97
+Pink: 0.92
+Skin care: 0.81
+Liquid: 0.74
+Cosmetics: 0.73
+Material property: 0.72
+Fluid: 0.60
+Tints and shades: 0.56
+Gloss: 0.55
+Moisture: 0.55

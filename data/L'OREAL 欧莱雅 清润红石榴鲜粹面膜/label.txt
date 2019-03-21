@@ -1,0 +1,5 @@
+Pink: 0.88
+Font: 0.78
+Material property: 0.70
+Magenta: 0.70
+Advertising: 0.53

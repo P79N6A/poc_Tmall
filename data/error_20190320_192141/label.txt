@@ -1,0 +1,4 @@
+Material property: 0.72
+Hair coloring: 0.60
+Cosmetics: 0.52
+Liquid: 0.51

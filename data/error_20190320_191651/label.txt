@@ -1,0 +1,4 @@
+Product: 0.94
+Font: 0.85
+Material property: 0.72
+Hair coloring: 0.51

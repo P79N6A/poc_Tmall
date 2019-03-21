@@ -1,0 +1,7 @@
+Product: 0.95
+Skin care: 0.85
+Cream: 0.75
+Material property: 0.71
+Font: 0.69
+Brand: 0.60
+Acrylic paint: 0.57

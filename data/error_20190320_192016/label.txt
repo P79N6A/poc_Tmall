@@ -1,0 +1,10 @@
+Product: 0.96
+Water: 0.81
+Spray: 0.79
+Bottle: 0.76
+Liquid: 0.71
+Material property: 0.70
+Plastic bottle: 0.65
+Cosmetics: 0.60
+Fluid: 0.53
+Personal care: 0.53

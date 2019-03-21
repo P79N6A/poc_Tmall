@@ -1,0 +1,10 @@
+Product: 0.95
+Plastic bottle: 0.81
+Skin care: 0.74
+Spray: 0.72
+Material property: 0.71
+Bottle: 0.71
+Fluid: 0.69
+Cosmetics: 0.69
+Liquid: 0.67
+Tints and shades: 0.52

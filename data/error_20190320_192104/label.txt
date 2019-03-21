@@ -1,0 +1,9 @@
+Product: 0.93
+Cream: 0.74
+Material property: 0.72
+Hand: 0.66
+Skin care: 0.62
+Hair gel: 0.62
+Acrylic paint: 0.56
+Cosmetics: 0.53
+Paint: 0.51

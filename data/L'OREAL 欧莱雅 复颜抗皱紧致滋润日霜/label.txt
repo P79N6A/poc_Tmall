@@ -1,0 +1,7 @@
+Product: 0.95
+Red: 0.95
+Skin care: 0.91
+Beauty: 0.86
+Cream: 0.78
+Material property: 0.71
+Hair coloring: 0.51

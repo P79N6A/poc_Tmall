@@ -1,0 +1,10 @@
+Product: 0.96
+Pink: 0.90
+Beauty: 0.89
+Water: 0.81
+Skin care: 0.78
+Cosmetics: 0.75
+Material property: 0.72
+Liquid: 0.65
+Fluid: 0.63
+Lip care: 0.59

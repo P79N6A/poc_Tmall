@@ -1,0 +1,10 @@
+Face: 0.95
+Brush: 0.90
+Cosmetics: 0.89
+Product: 0.88
+Material property: 0.71
+Skin care: 0.67
+Beige: 0.67
+Cream: 0.64
+Makeup brushes: 0.64
+Personal care: 0.55

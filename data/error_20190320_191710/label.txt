@@ -1,0 +1,10 @@
+Product: 0.96
+Cheek: 0.94
+Pink: 0.92
+Skin: 0.91
+Lip: 0.91
+Beauty: 0.90
+Skin care: 0.82
+Cosmetics: 0.80
+Liquid: 0.75
+Tints and shades: 0.74

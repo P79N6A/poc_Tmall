@@ -1,0 +1,8 @@
+Product: 0.94
+Pink: 0.89
+Lip: 0.85
+Skin care: 0.75
+Material property: 0.72
+Mouth: 0.68
+Cream: 0.67
+Cosmetics: 0.62

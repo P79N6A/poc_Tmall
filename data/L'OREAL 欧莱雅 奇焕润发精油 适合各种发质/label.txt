@@ -1,0 +1,7 @@
+Product: 0.91
+Hair coloring: 0.77
+Personal care: 0.69
+Bottle: 0.58
+Skin care: 0.58
+Hair care: 0.55
+Spray: 0.53

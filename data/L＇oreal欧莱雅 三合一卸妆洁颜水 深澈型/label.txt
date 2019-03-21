@@ -1,0 +1,3 @@
+Product: 0.96
+Skin care: 0.78
+Material property: 0.70

@@ -1,0 +1,8 @@
+Skin care: 0.90
+Product: 0.88
+Cosmetics: 0.83
+Lip care: 0.78
+Cream: 0.77
+Font: 0.75
+Material property: 0.73
+Brand: 0.58

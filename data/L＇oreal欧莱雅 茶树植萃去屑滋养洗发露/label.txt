@@ -1,0 +1,2 @@
+Product: 0.88
+Liquid: 0.57

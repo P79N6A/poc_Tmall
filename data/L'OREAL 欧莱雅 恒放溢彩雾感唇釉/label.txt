@@ -1,0 +1,10 @@
+Red: 0.95
+Cosmetics: 0.94
+Lip: 0.94
+Lipstick: 0.92
+Product: 0.91
+Beauty: 0.89
+Lip gloss: 0.82
+Pink: 0.81
+Lip care: 0.76
+Material property: 0.74

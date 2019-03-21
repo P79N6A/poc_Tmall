@@ -1,0 +1,10 @@
+Product: 0.97
+Beauty: 0.86
+Water: 0.81
+Font: 0.75
+Material property: 0.72
+Skin care: 0.66
+Personal care: 0.58
+Hair care: 0.58
+Spray: 0.53
+Moisture: 0.52

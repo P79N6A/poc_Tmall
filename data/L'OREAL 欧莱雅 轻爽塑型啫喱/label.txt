@@ -1,0 +1,10 @@
+Hair: 0.98
+Face: 0.96
+Product: 0.93
+Hair coloring: 0.88
+Brown: 0.88
+Nose: 0.84
+Material property: 0.73
+Brown hair: 0.66
+Personal care: 0.63
+Hair care: 0.62

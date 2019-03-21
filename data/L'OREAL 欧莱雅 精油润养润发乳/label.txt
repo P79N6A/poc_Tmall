@@ -1,0 +1,2 @@
+Product: 0.91
+Material property: 0.70

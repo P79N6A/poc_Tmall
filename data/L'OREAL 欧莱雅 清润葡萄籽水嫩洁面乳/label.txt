@@ -1,0 +1,6 @@
+Product: 0.95
+Skin care: 0.88
+Head: 0.88
+Cream: 0.76
+Font: 0.75
+Material property: 0.72

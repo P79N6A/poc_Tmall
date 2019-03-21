@@ -1,0 +1,7 @@
+Product: 0.96
+Cosmetics: 0.88
+Liquid: 0.75
+Material property: 0.73
+Gloss: 0.61
+Hair coloring: 0.60
+Eyelash: 0.59
